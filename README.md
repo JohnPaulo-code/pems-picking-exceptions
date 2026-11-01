@@ -65,3 +65,8 @@ streamlit run dashboard.py
 
 **6. (Optional) Generate the Training Deck**
 python -m pems.build_deck SIM003
+
+---
+
+## 📽️ Presentation
+You can view the Captain Training presentation here: [PEMS Captain Training](presentation/PEMS_Captain_Training.pptx)
