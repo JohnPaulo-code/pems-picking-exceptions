@@ -1,0 +1,4 @@
+psycopg2-binary
+streamlit
+openpyxl
+python-pptx
