@@ -69,4 +69,4 @@ python -m pems.build_deck SIM003
 ---
 
 ## 📽️ Presentation
-You can view the Captain Training presentation here: [PEMS Captain Training](PEMS_Captain_Training.pptx)
+You can view the Captain Training presentation here: [PEMS Captain Training](PEMS_Captain_Training.pdf)
