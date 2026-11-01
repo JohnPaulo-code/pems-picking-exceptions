@@ -22,13 +22,6 @@ PEMS ingests scan data and calculates a **Risk Score** for every location based 
 
 ---
 
-## 📸 Screenshots
-*(Add your screenshots to a `screenshots/` folder in the repo and link them here)*
-* **The Dashboard:** `![Dashboard](screenshots/dashboard.png)`
-* **The Excel Export:** `![Excel](screenshots/excel.png)`
-
----
-
 ## 🛠️ Technical Stack
 - **Database:** PostgreSQL
 - **Data & Logic:** Python (psycopg2, pandas)
